@@ -2,7 +2,7 @@ body {
 	width: 99%;
 	color: #fff;
 	background: linear-gradient(45deg, rgba(252,225,208,1) 30%, rgba(255,173,214,1) 55.7%, rgba(162,186,245,1) 81.8% );
-	background-size: 150% 100%;
+	background-size: 100% 100%;
 	position: relative;
 	text-align: center;
 	background-repeat: no-repeat;
